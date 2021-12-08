@@ -1,4 +1,9 @@
-h1 {
+#first_heading {
     color: red;
-    font-size: 50px;
+    font-size: 30px;
+}
+
+.second_heading {
+    color: blue;
+    font-size: 20px;
 }
